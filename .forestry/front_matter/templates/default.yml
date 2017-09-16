@@ -1,0 +1,15 @@
+---
+pages:
+- posts/post-post-post.md
+- posts/more-posting-hope.md
+- posts/my-foresty-addition.md
+- posts/forestry-number-two.md
+- posts/another-post.md
+- posts/hopeful-post.md
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: field_group
+  hidden: false
+  default: {}
