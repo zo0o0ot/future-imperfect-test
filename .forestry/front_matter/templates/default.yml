@@ -1,9 +1,9 @@
 ---
 pages:
-- posts/hopeful-post.md
-- posts/another-post.md
-- posts/forestry-number-two.md
 - posts/my-foresty-addition.md
+- posts/forestry-number-two.md
+- posts/another-post.md
+- posts/hopeful-post.md
 hide_body: false
 fields:
 - name: date
