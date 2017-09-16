@@ -1,4 +1,5 @@
-baseURL = "https://zo0o0ot.github.io/"
+baseURL = "https://zo0o0ot.github.io/future-imperfect-test/"
 languageCode = "en-us"
 theme = "hugo-future-imperfect"
 title = "My New Hugo Site"
+publishDir = "docs"
