@@ -6,3 +6,8 @@ title = "date test"
 
 
 date test frontmatter
+
+image
+
+![](/uploads/2017/09/16/boulderFoodRobot.png)
+
