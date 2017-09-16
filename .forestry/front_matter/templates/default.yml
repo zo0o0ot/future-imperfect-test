@@ -9,8 +9,7 @@ pages:
 - posts/hopeful-post.md
 hide_body: false
 fields:
-- name: date
+- type: datetime
   label: Date
-  type: field_group
-  hidden: false
-  default: {}
+  name: date
+  default: 2017-09-15 00:00:00 -0500
