@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/my-foresty-addition.md
 hide_body: false
 fields:
 - name: date
