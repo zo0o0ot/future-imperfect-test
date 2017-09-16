@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "hopeful post"
 [date]
 
