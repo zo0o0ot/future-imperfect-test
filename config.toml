@@ -1,6 +1,7 @@
 baseURL = "https://zo0o0ot.github.io/future-imperfect-test/"
 languageCode = "en-us"
-theme = "hugo-theme-learn"
 title = "My New Hugo Site"
 publishDir = "docs"
+theme = "hugo-theme-learn"
+[params]
 themeVariant = "red"
