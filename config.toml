@@ -1,4 +1,4 @@
 baseURL = "https://zo0o0ot.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "gohugo-theme-ananke"
+title = "My New Hugo Site"

@@ -1,6 +1,6 @@
 ---
-title: "My Second Post"
-date: 2017-09-15T19:36:43-05:00
----
+title: My Second Post
+date: 2017-09-15 19:36:43 -0500
 
+---
 Hello, again!
