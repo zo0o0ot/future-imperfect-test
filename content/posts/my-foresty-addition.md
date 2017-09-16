@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "my-foresty-addition"
 [date]
 
@@ -6,3 +7,5 @@ title = "my-foresty-addition"
 
 
 forestry addition to blog
+
+with an edit
