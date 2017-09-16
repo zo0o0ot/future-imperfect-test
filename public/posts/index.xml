@@ -29,5 +29,15 @@
       <description>Hello, world!</description>
     </item>
     
+    <item>
+      <title>my-foresty-addition</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/my-foresty-addition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/my-foresty-addition/</guid>
+      <description>forestry addition to blog
+with an edit</description>
+    </item>
+    
   </channel>
 </rss>
