@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "my-foresty-addition"
 [date]
 
