@@ -1,72 +1,26 @@
 /*
-	Future Imperfect by HTML5 UP
-	html5up.net | @n33co
+	Aerial by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Button */
-
-	input[type="submit"],
-	input[type="reset"],
-	input[type="button"],
-	button,
-	.button {
-		border: solid 1px #dedede;
-	}
-
-/* Form */
-
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	input[type="tel"],
-	select,
-	textarea {
-		border: solid 1px #dedede;
-	}
-
-/* Post */
-
-	.post {
-		border: solid 1px #dedede;
-	}
-
-		.post > header {
-			border-bottom: solid 1px #dedede;
-		}
-
-/* Mini Post */
-
-	.mini-post {
-		border: solid 1px #dedede;
-	}
-
 /* Header */
 
-	#header {
-		border-bottom: solid 1px #dedede;
+	#header nav a {
+		position: relative;
+		border: solid 1px #fff;
+		border-radius: 100%;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
 	}
 
-		#header .links {
-			border-left: solid 1px #dedede;
+		#header nav a:before {
+			border: 0;
 		}
 
-		#header .main ul li {
-			border-left: solid 1px #dedede;
-		}
+/* Footer */
 
-/* Sidebar */
-
-	#sidebar > * {
-		border-top: solid 1px #dedede;
+	#footer {
+		background-image: url("images/ie/footer.png");
+		background-position: bottom left;
+		background-repeat: repeat-x;
 	}
-
-/* Menu */
-
-	#menu {
-		border-left: solid 1px #dedede;
-	}
-
-		#menu > * {
-			border-top: solid 1px #dedede;
-		}
