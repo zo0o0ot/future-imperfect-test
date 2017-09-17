@@ -7,25 +7,92 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Sep 2017 19:36:43 -0500</lastBuildDate>
-    <atom:link href="/future-imperfect-test/posts/" rel="self" type="application/rss+xml" />
     
-      
+	<atom:link href="https://zo0o0ot.github.io/future-imperfect-test/posts/index.xml" rel="self" type="application/rss+xml" />
     
-      
     
+    <item>
+      <title>My Second Post</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/my-second-post/</link>
+      <pubDate>Fri, 15 Sep 2017 19:36:43 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/my-second-post/</guid>
+      <description>Hello, again!</description>
+    </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/my-first-post/</guid>
+      <description>Hello, world!</description>
+    </item>
     
+    <item>
+      <title>another-post</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/another-post/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/another-post/</guid>
+      <description>test test</description>
+    </item>
     
+    <item>
+      <title>forestry-number-two</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/forestry-number-two/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/forestry-number-two/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>hopeful post</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/hopeful-post/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/hopeful-post/</guid>
+      <description>there&amp;rsquo;s some hope here.</description>
+    </item>
     
+    <item>
+      <title>more posting hope</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/more-posting-hope/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/more-posting-hope/</guid>
+      <description>another attempt</description>
+    </item>
     
+    <item>
+      <title>my-foresty-addition</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/my-foresty-addition/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
       
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/my-foresty-addition/</guid>
+      <description>forestry addition to blog
+with an edit</description>
+    </item>
+    
+    <item>
+      <title>post post post</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/post-post-post/</link>
+      <pubDate>Fri, 15 Sep 2017 19:02:55 -0500</pubDate>
+      
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/post-post-post/</guid>
+      <description>content content</description>
+    </item>
+    
+    <item>
+      <title>date test</title>
+      <link>https://zo0o0ot.github.io/future-imperfect-test/posts/date-test/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://zo0o0ot.github.io/future-imperfect-test/posts/date-test/</guid>
+      <description>date test frontmatter
+image</description>
+    </item>
     
   </channel>
 </rss>
