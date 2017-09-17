@@ -1,123 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8"  lang="en-us">
-    <title>another-post - My New Hugo Site</title>
-    <meta name="generator" content="Hugo 0.25.1" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>another-post</title>
 
     
-    <link rel="canonical" href="https://zo0o0ot.github.io/future-imperfect-test/posts/another-post/">
-    
-    <meta name="generator" content="Hugo 0.25.1" />
+    <link href="https://zo0o0ot.github.io/future-imperfect-test/css/bootstrap-theme.css" rel="stylesheet">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:url" content="https://zo0o0ot.github.io/future-imperfect-test/posts/another-post/">
-    <meta property="og:title" content="My New Hugo Site">
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     
-    <meta name="apple-mobile-web-app-title" content="My New Hugo Site">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-
-    
-    <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
-    <link rel="stylesheet" href="/css/custom.css">
-    <link rel="stylesheet" href="/css/pygments.css">
-    
-    <link rel="stylesheet" href="/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
-    <link rel="stylesheet" href="/css/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+    <link href="https://zo0o0ot.github.io/future-imperfect-test/css/HPstyles.css" rel="stylesheet">
+    <link href="https://zo0o0ot.github.io/future-imperfect-test/css/hugofont.css" rel="stylesheet">
+    <link href="https://zo0o0ot.github.io/future-imperfect-test/css/owl.carousel.css" rel="stylesheet">
+    <link href="https://zo0o0ot.github.io/future-imperfect-test/css/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   </head>
+
   <body>
 
+<p>test test</p>
 
-<div class="row">
-<div class="navbar navbar-default navbar-fixed-top">
-<div class="container">
-  <div class="navbar-header">
-    <a href="https://zo0o0ot.github.io/future-imperfect-test/" class="navbar-brand">My New Hugo Site</a>
-    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-  </div>
-  <div class="navbar-collapse collapse" id="navbar-main">
 
-    <ul class="nav navbar-nav navbar-right">
-      <li>
-      <a href="/releases/latest">Download</a>
-      </li>
-      
-      <li>
-        <a href="/stargazers" target="_blank" title="Stargazers" data-action="star">
-          <span class="glyphicon glyphicon-star" aria-hidden="true"></span>Stars
-          <span id="star_count">&ndash;</span>
-        </a>
-      </li>
-      <li><a href="https://github.com//My%20New%20Hugo%20Site">Github</a></li>
-    </ul>
-  </div>
-</div>
-
-</div>
-
-<div class="container">
-
-  <div>
+<footer id="footer">
+  <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-md-3 col-sm-4">
-        
-
-<div class="list-group table-of-contents">
-  <a class="list-group-item" href="/news"><b>News</b></a>
-
-  
-
-</div>
-
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <ul class="list-inline">
+            <li><a href="http://twitter.com/spf13" class="icon-twitter icon-2x"></a></li>
+            <li><a href="http://github.com/spf13/hugo" class="icon-octocat icon-2x"></a></li>
+        </ul>
+        <hr>
+        <p>Copyright &copy; Steve Francia 2013&ndash;2014</p>
       </div>
-      <div class="col-lg-9 col-md-9 col-sm-8">
-        <div>
-          <h1 id="main">another-post</h1>
-        </div>
-        <p>test test</p>
-
-      </div>
-    </div>
-  <div class="row">
-    <div class="col-lg-9 col-md-9 col-sm-8 col-lg-offset-3 col-md-offset-3">
-    <footer>
-  <div class="row">
-    <div class="col-lg-12">
-      <p>Copyright 2016. <a> </a> </p>
-      <p>HUGO theme <a href="https://github.com/adejoux/hugo-darkdoc-theme" rel="nofollow">darkdoc</a>.</p>
     </div>
   </div>
 </footer>
 
+
+
+
+<script src="https://zo0o0ot.github.io/future-imperfect-test/js/jquery-2.1.1.min.js"></script>
+<script src="https://zo0o0ot.github.io/future-imperfect-test/js/owl.carousel.min.js"></script>
+
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+      || location.hostname == this.hostname) {
+
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    if (target.length) {
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
+});
+});
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:10,
+nav:true,
+autoplay:true,
+autoplayHoverPause:true,
+autoplayTimeout:3000,
+responsive:{
+    0:{
+        items:1
+    },
+    1000:{
+        items:3
+    },
+}
+})
+</script>
+
+
 </body>
 
-    </div>
-  </div>
-
-</div>
 </html>
-<script>
-
-  var api_url = '';
-
-</script>
-<script src="//code.jquery.com/jquery-2.2.3.min.js"></script>
-<script src="/js/application.js"></script>
-<script type="text/javascript" src="/js/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript" src="/js/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-<script type="text/javascript" src="/js/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<script type="text/javascript" src="/js/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-  });
-</script>
 
