@@ -6,3 +6,7 @@ thumbnail: "images/default-small.jpg"
 ---
 
 This is not a post, it's other stuff.
+
+<!-- more -->
+
+{{% img src="images/faces.jpg" w="600" h="400" %}}
